@@ -1,0 +1,192 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tamanho base acompanha a ALTURA da tela: no celular deitado tudo cabe,
+   e na TV (espelhada) fica proporcional. */
+html {
+  font-size: clamp(12px, 3.9vh, 22px);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background: #0b0218;
+  color: #fff;
+  font-family: 'Baloo 2', system-ui, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  -webkit-user-select: none;
+  overscroll-behavior: none;
+}
+
+input,
+select,
+textarea {
+  user-select: text;
+  -webkit-user-select: text;
+}
+
+/* ---------- Texto neon ---------- */
+.neon-rosa {
+  color: #ffd1ec;
+  text-shadow: 0 0 6px #ff2ea6, 0 0 18px #ff2ea6, 0 0 36px #ff2ea6aa;
+}
+.neon-amarelo {
+  color: #fff6c2;
+  text-shadow: 0 0 6px #ffe140, 0 0 18px #ffb800, 0 0 32px #ffb800aa;
+}
+.neon-azul {
+  color: #d6f3ff;
+  text-shadow: 0 0 6px #38bdf8, 0 0 18px #38bdf8, 0 0 32px #38bdf8aa;
+}
+.neon-roxo {
+  color: #ecd9ff;
+  text-shadow: 0 0 6px #a855f7, 0 0 18px #a855f7, 0 0 32px #a855f7aa;
+}
+
+.painel {
+  background: linear-gradient(160deg, rgba(60, 16, 110, 0.72), rgba(20, 5, 40, 0.82));
+  border: 2px solid rgba(168, 85, 247, 0.45);
+  box-shadow: 0 0 22px rgba(168, 85, 247, 0.25), inset 0 0 18px rgba(255, 46, 166, 0.08);
+  border-radius: 1.25rem;
+}
+
+.campo {
+  background: rgba(10, 2, 25, 0.75);
+  border: 2px solid rgba(168, 85, 247, 0.6);
+  border-radius: 999px;
+  padding: 0.35rem 1rem;
+  color: #fff;
+  outline: none;
+  font-weight: 600;
+}
+.campo:focus {
+  border-color: #ff2ea6;
+  box-shadow: 0 0 14px rgba(255, 46, 166, 0.5);
+}
+
+.rolagem {
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #a855f7 transparent;
+}
+.rolagem-x {
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.rolagem-x::-webkit-scrollbar {
+  display: none;
+}
+
+/* ---------- Fundo de balada ---------- */
+@keyframes flutuar {
+  0%,
+  100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(8vw, -6vh) scale(1.15);
+  }
+  66% {
+    transform: translate(-6vw, 5vh) scale(0.9);
+  }
+}
+@keyframes holofote {
+  0%,
+  100% {
+    transform: rotate(-28deg);
+    opacity: 0.25;
+  }
+  50% {
+    transform: rotate(28deg);
+    opacity: 0.5;
+  }
+}
+@keyframes piscar {
+  0%,
+  100% {
+    opacity: 0.15;
+    transform: scale(0.6);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+@keyframes neon-falha {
+  0%,
+  18%,
+  22%,
+  25%,
+  53%,
+  57%,
+  100% {
+    opacity: 1;
+  }
+  20%,
+  24%,
+  55% {
+    opacity: 0.55;
+  }
+}
+.neon-falha {
+  animation: neon-falha 4s infinite;
+}
+
+.bolha {
+  position: absolute;
+  border-radius: 50%;
+  opacity: 0.45;
+  will-change: transform;
+  animation: flutuar 18s ease-in-out infinite;
+}
+.feixe {
+  position: absolute;
+  bottom: -10vh;
+  width: 22vw;
+  height: 140vh;
+  transform-origin: 50% 100%;
+  will-change: transform, opacity;
+  animation: holofote 9s ease-in-out infinite;
+  clip-path: polygon(45% 100%, 55% 100%, 100% 0, 0 0);
+}
+.estrelinha {
+  position: absolute;
+  color: #fff;
+  animation: piscar 2.6s ease-in-out infinite;
+}
+
+/* ---------- Pedir para girar o celular ---------- */
+.girar {
+  display: none;
+}
+/* só em celular/tablet (tela de toque): no computador dá pra testar com a janela em pé */
+@media (orientation: portrait) and (max-width: 900px) and (pointer: coarse) {
+  .girar {
+    display: flex;
+  }
+}
+@keyframes girar-celular {
+  0%,
+  20% {
+    transform: rotate(0deg);
+  }
+  45%,
+  75% {
+    transform: rotate(-90deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+.celular-girando {
+  animation: girar-celular 2.4s ease-in-out infinite;
+}

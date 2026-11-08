@@ -1,0 +1,562 @@
+[
+  {
+    "id": "evidencias-chitaozinho-xororo",
+    "titulo": "Evidências",
+    "artista": "Chitãozinho & Xororó",
+    "decada": "90",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "fio-de-cabelo-chitaozinho-xororo",
+    "titulo": "Fio de Cabelo",
+    "artista": "Chitãozinho & Xororó",
+    "decada": "80",
+    "categoria": "Sertanejo Raiz",
+    "energia": 2,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "pense-em-mim-leandro-leonardo",
+    "titulo": "Pense em Mim",
+    "artista": "Leandro & Leonardo",
+    "decada": "90",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "entre-tapas-e-beijos-leandro-leonardo",
+    "titulo": "Entre Tapas e Beijos",
+    "artista": "Leandro & Leonardo",
+    "decada": "80",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "e-o-amor-zeze-di-camargo-luciano",
+    "titulo": "É o Amor",
+    "artista": "Zezé Di Camargo & Luciano",
+    "decada": "90",
+    "categoria": "Sertanejo Raiz",
+    "energia": 2,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "telefone-mudo-trio-parada-dura",
+    "titulo": "Telefone Mudo",
+    "artista": "Trio Parada Dura",
+    "decada": "80",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "fuscao-preto-almir-rogerio",
+    "titulo": "Fuscão Preto",
+    "artista": "Almir Rogério",
+    "decada": "80",
+    "categoria": "Sertanejo Raiz",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "estrada-da-vida-milionario-jose-rico",
+    "titulo": "Estrada da Vida",
+    "artista": "Milionário & José Rico",
+    "decada": "80",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "boate-azul-bruno-marrone",
+    "titulo": "Boate Azul",
+    "artista": "Bruno & Marrone",
+    "decada": "2000",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "dormi-na-praca-bruno-marrone",
+    "titulo": "Dormi na Praça",
+    "artista": "Bruno & Marrone",
+    "decada": "2000",
+    "categoria": "Sertanejo Raiz",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "garota-nacional-skank",
+    "titulo": "Garota Nacional",
+    "artista": "Skank",
+    "decada": "90",
+    "categoria": "Pop Nacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "vou-deixar-skank",
+    "titulo": "Vou Deixar",
+    "artista": "Skank",
+    "decada": "2000",
+    "categoria": "Pop Nacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "anna-julia-los-hermanos",
+    "titulo": "Anna Júlia",
+    "artista": "Los Hermanos",
+    "decada": "90",
+    "categoria": "Pop Nacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "prometida-br-oz",
+    "titulo": "Prometida",
+    "artista": "Br'oZ",
+    "decada": "2000",
+    "categoria": "Pop Nacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "ragatanga-rouge",
+    "titulo": "Ragatanga",
+    "artista": "Rouge",
+    "decada": "2000",
+    "categoria": "Pop Nacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "brilha-la-luna-rouge",
+    "titulo": "Brilha la Luna",
+    "artista": "Rouge",
+    "decada": "2000",
+    "categoria": "Pop Nacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "vamo-pula-sandy-junior",
+    "titulo": "Vamo Pulá!",
+    "artista": "Sandy & Junior",
+    "decada": "2000",
+    "categoria": "Pop Nacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "rap-da-felicidade-cidinho-doca",
+    "titulo": "Rap da Felicidade",
+    "artista": "Cidinho & Doca",
+    "decada": "90",
+    "categoria": "Funk das Antigas",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "endereco-dos-bailes-mc-junior-mc-leonardo",
+    "titulo": "Endereço dos Bailes",
+    "artista": "MC Júnior & MC Leonardo",
+    "decada": "90",
+    "categoria": "Funk das Antigas",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "girls-just-want-to-have-fun-cyndi-lauper",
+    "titulo": "Girls Just Want to Have Fun",
+    "artista": "Cyndi Lauper",
+    "decada": "80",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "wake-me-up-before-you-go-go-wham",
+    "titulo": "Wake Me Up Before You Go-Go",
+    "artista": "Wham!",
+    "decada": "80",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "i-wanna-dance-with-somebody-whitney-houston",
+    "titulo": "I Wanna Dance with Somebody",
+    "artista": "Whitney Houston",
+    "decada": "80",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "like-a-prayer-madonna",
+    "titulo": "Like a Prayer",
+    "artista": "Madonna",
+    "decada": "80",
+    "categoria": "Internacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "livin-on-a-prayer-bon-jovi",
+    "titulo": "Livin' on a Prayer",
+    "artista": "Bon Jovi",
+    "decada": "80",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "wannabe-spice-girls",
+    "titulo": "Wannabe",
+    "artista": "Spice Girls",
+    "decada": "90",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "barbie-girl-aqua",
+    "titulo": "Barbie Girl",
+    "artista": "Aqua",
+    "decada": "90",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "livin-la-vida-loca-ricky-martin",
+    "titulo": "Livin' la Vida Loca",
+    "artista": "Ricky Martin",
+    "decada": "90",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "macarena-los-del-rio",
+    "titulo": "Macarena",
+    "artista": "Los del Río",
+    "decada": "90",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "everybody-backstreet-s-back-backstreet-boys",
+    "titulo": "Everybody (Backstreet's Back)",
+    "artista": "Backstreet Boys",
+    "decada": "90",
+    "categoria": "Internacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "mr-brightside-the-killers",
+    "titulo": "Mr. Brightside",
+    "artista": "The Killers",
+    "decada": "2000",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "uptown-funk-mark-ronson-ft-bruno-mars",
+    "titulo": "Uptown Funk",
+    "artista": "Mark Ronson ft. Bruno Mars",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "shake-it-off-taylor-swift",
+    "titulo": "Shake It Off",
+    "artista": "Taylor Swift",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "call-me-maybe-carly-rae-jepsen",
+    "titulo": "Call Me Maybe",
+    "artista": "Carly Rae Jepsen",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "party-rock-anthem-lmfao",
+    "titulo": "Party Rock Anthem",
+    "artista": "LMFAO",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "danza-kuduro-don-omar-lucenzo",
+    "titulo": "Danza Kuduro",
+    "artista": "Don Omar & Lucenzo",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "despacito-luis-fonsi-ft-daddy-yankee",
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi ft. Daddy Yankee",
+    "decada": "2010",
+    "categoria": "Internacional",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "baby-one-more-time-britney-spears",
+    "titulo": "...Baby One More Time",
+    "artista": "Britney Spears",
+    "decada": "90",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "oops-i-did-it-again-britney-spears",
+    "titulo": "Oops!... I Did It Again",
+    "artista": "Britney Spears",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "toxic-britney-spears",
+    "titulo": "Toxic",
+    "artista": "Britney Spears",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "womanizer-britney-spears",
+    "titulo": "Womanizer",
+    "artista": "Britney Spears",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "crazy-in-love-beyonce",
+    "titulo": "Crazy in Love",
+    "artista": "Beyoncé",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "single-ladies-beyonce",
+    "titulo": "Single Ladies",
+    "artista": "Beyoncé",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "irreplaceable-beyonce",
+    "titulo": "Irreplaceable",
+    "artista": "Beyoncé",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "survivor-destiny-s-child",
+    "titulo": "Survivor",
+    "artista": "Destiny's Child",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "hips-don-t-lie-shakira",
+    "titulo": "Hips Don't Lie",
+    "artista": "Shakira",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "whenever-wherever-shakira",
+    "titulo": "Whenever, Wherever",
+    "artista": "Shakira",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "la-tortura-shakira",
+    "titulo": "La Tortura",
+    "artista": "Shakira",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "waka-waka-shakira",
+    "titulo": "Waka Waka",
+    "artista": "Shakira",
+    "decada": "2010",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "genie-in-a-bottle-christina-aguilera",
+    "titulo": "Genie in a Bottle",
+    "artista": "Christina Aguilera",
+    "decada": "90",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "umbrella-rihanna",
+    "titulo": "Umbrella",
+    "artista": "Rihanna",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 3,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "since-u-been-gone-kelly-clarkson",
+    "titulo": "Since U Been Gone",
+    "artista": "Kelly Clarkson",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "hollaback-girl-gwen-stefani",
+    "titulo": "Hollaback Girl",
+    "artista": "Gwen Stefani",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "can-t-get-you-out-of-my-head-kylie-minogue",
+    "titulo": "Can't Get You Out of My Head",
+    "artista": "Kylie Minogue",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 4,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "girlfriend-avril-lavigne",
+    "titulo": "Girlfriend",
+    "artista": "Avril Lavigne",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "hot-n-cold-katy-perry",
+    "titulo": "Hot N Cold",
+    "artista": "Katy Perry",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  },
+  {
+    "id": "just-dance-lady-gaga",
+    "titulo": "Just Dance",
+    "artista": "Lady Gaga",
+    "decada": "2000",
+    "categoria": "Divas Pop",
+    "energia": 5,
+    "youtubeId": "",
+    "offsetLetra": 0
+  }
+]
